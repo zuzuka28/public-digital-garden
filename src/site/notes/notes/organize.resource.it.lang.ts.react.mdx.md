@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.ts.react.mdx/","title":"Mdx"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-ts-react-mdx/","title":"Mdx"}
 ---
 
 

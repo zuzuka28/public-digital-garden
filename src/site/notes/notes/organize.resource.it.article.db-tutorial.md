@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.article.db-tutorial/","title":"Db Tutorial","tags":["source.article","stub"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-article-db-tutorial/","title":"Db Tutorial","tags":["source.article","stub"]}
 ---
 
 

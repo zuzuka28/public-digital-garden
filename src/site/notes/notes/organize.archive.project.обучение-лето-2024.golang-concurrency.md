@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.обучение-лето-2024.golang-concurrency/","title":"Golang Concurrency"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-obuchenie-leto-2024-golang-concurrency/","title":"Golang Concurrency"}
 ---
 
 

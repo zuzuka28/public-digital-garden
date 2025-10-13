@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.hipotisis/","title":"Hipotisis","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-hipotisis/","title":"Hipotisis","tags":["source.app"]}
 ---
 
 

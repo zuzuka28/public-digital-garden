@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.templ/","title":"Templ"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-templ/","title":"Templ"}
 ---
 
 

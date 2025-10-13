@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.nummethods.решение-уравнений.уточнение-корней.метод-хорд/","title":"Метод Хорд"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-nummethods-reshenie-uravnenij-utochnenie-kornej-metod-hord/","title":"Метод Хорд"}
 ---
 
 

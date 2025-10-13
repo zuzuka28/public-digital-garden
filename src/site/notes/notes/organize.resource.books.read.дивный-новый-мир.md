@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.books.read.дивный-новый-мир/","title":"Дивный Новый Мир"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-books-read-divnyj-novyj-mir/","title":"Дивный Новый Мир"}
 ---
 
 > [!danger] Спойлеры

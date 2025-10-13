@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.goldmark/","title":"Goldmark"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-goldmark/","title":"Goldmark"}
 ---
 
 

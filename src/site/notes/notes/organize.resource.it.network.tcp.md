@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.tcp/","title":"TCP"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-tcp/","title":"TCP"}
 ---
 
 

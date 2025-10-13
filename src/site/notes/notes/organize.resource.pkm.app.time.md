@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.time/","title":"Time"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-time/","title":"Time"}
 ---
 
 

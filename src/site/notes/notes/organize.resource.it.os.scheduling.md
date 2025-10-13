@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.scheduling/","title":"Scheduling"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-scheduling/","title":"Scheduling"}
 ---
 
 

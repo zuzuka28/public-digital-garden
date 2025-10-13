@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.mae/","title":"MAE"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-mae/","title":"MAE"}
 ---
 
 

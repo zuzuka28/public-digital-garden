@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.to/","title":"To"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-to/","title":"To"}
 ---
 
 

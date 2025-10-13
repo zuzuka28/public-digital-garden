@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.python.lib.alembic/","title":"Alembic"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-python-lib-alembic/","title":"Alembic"}
 ---
 
 

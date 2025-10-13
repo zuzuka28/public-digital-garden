@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.normalization/","title":"Normalization"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-normalization/","title":"Normalization"}
 ---
 
 

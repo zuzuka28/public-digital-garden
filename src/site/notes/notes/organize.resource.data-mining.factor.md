@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.factor/","title":"Factor"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-factor/","title":"Factor"}
 ---
 
 

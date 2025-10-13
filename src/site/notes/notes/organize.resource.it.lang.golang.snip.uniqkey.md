@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.snip.uniqkey/","title":"Uniqkey"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-snip-uniqkey/","title":"Uniqkey"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.nummethods.решение-уравнений.уточнение-корней.метод-ньютона/","title":"Метод Ньютона"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-nummethods-reshenie-uravnenij-utochnenie-kornej-metod-nyutona/","title":"Метод Ньютона"}
 ---
 
 

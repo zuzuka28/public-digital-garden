@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.python.snip.retry-wrapper/","title":"Retry Wrapper"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-python-snip-retry-wrapper/","title":"Retry Wrapper"}
 ---
 
 

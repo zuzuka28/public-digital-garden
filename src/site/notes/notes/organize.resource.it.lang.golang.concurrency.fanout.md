@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.concurrency.fanout/","title":"Fanout"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-concurrency-fanout/","title":"Fanout"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.cue/","title":"Cue"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-cue/","title":"Cue"}
 ---
 
 

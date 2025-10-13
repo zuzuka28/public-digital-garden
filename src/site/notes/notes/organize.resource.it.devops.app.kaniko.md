@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.app.kaniko/","title":"Kaniko"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-app-kaniko/","title":"Kaniko"}
 ---
 
 

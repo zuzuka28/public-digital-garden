@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.udp/","title":"UDP"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-udp/","title":"UDP"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.perti-network/","title":"Perti Network"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-perti-network/","title":"Perti Network"}
 ---
 
 

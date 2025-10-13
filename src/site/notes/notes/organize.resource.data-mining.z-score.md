@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.z-score/","title":"Z Score","tags":["math.statistics"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-z-score/","title":"Z Score","tags":["math.statistics"]}
 ---
 
 

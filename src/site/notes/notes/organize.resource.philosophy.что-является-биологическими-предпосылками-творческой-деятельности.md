@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.philosophy.что-является-биологическими-предпосылками-творческой-деятельности/","title":"Что является биологическими предпосылками творческой деятельности?"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-philosophy-chto-yavlyaetsya-biologicheskimi-predposylkami-tvorcheskoj-deyatelnosti/","title":"Что является биологическими предпосылками творческой деятельности?"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.rust.crate.diesel/","title":"Diesel"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-rust-crate-diesel/","title":"Diesel"}
 ---
 
 

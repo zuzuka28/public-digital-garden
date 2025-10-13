@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining/","title":"Data Mining"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining/","title":"Data Mining"}
 ---
 
 

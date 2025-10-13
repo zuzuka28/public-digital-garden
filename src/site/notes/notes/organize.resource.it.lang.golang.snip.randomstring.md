@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.snip.randomstring/","title":"Randomstring"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-snip-randomstring/","title":"Randomstring"}
 ---
 
 

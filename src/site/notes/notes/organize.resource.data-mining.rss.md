@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.rss/","title":"RSS"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-rss/","title":"RSS"}
 ---
 
 

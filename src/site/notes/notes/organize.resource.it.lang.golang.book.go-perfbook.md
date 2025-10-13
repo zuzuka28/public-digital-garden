@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.book.go-perfbook/","title":"Go Perfbook","tags":["source.article","stub"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-book-go-perfbook/","title":"Go Perfbook","tags":["source.article","stub"]}
 ---
 
 

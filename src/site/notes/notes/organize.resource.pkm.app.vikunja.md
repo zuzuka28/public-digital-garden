@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.vikunja/","title":"Vikunja","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-vikunja/","title":"Vikunja","tags":["source.app"]}
 ---
 
 

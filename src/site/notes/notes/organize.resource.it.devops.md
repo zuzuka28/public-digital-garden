@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops/","title":"Devops"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops/","title":"Devops"}
 ---
 
 

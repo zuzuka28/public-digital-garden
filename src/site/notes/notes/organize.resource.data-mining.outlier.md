@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.outlier/","title":"Outlier"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-outlier/","title":"Outlier"}
 ---
 
 

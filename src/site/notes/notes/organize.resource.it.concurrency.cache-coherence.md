@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.concurrency.cache-coherence/","title":"Cache Coherence"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-concurrency-cache-coherence/","title":"Cache Coherence"}
 ---
 
 

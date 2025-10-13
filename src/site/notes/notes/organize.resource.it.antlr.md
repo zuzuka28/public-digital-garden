@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.antlr/","title":"Antlr","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-antlr/","title":"Antlr","tags":["source.app"]}
 ---
 
 

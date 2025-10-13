@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.philosophy.самосознание и творческая самоактуализация личности/","title":"Самосознание и творческая самоактуализация личности"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-philosophy-samosoznanie-i-tvorcheskaya-samoaktualizacziya-lichnosti/","title":"Самосознание и творческая самоактуализация личности"}
 ---
 
 

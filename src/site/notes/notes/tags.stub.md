@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tags.stub/","title":"Stub"}
+{"dg-publish":true,"permalink":"/notes/tags-stub/","title":"Stub"}
 ---
 
 

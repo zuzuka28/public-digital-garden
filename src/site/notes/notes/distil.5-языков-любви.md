@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/distil.5-языков-любви/","title":"5 Языков Любви"}
+{"dg-publish":true,"permalink":"/notes/distil-5-yazykov-lyubvi/","title":"5 Языков Любви"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.omnivore/","title":"Omnivore","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-omnivore/","title":"Omnivore","tags":["source.app"]}
 ---
 
 

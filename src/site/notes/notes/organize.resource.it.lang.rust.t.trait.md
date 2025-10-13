@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.rust.t.trait/","title":"Trait"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-rust-t-trait/","title":"Trait"}
 ---
 
 

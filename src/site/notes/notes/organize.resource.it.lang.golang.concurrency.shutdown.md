@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.concurrency.shutdown/","title":"Shutdown"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-concurrency-shutdown/","title":"Shutdown"}
 ---
 
 

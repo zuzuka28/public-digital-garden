@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.infra.tolgee/","title":"Tolgee"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-infra-tolgee/","title":"Tolgee"}
 ---
 
 

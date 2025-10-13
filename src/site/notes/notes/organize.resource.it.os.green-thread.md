@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.green-thread/","title":"Green Thread"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-green-thread/","title":"Green Thread"}
 ---
 
 

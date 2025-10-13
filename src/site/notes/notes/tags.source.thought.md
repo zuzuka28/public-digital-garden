@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tags.source.thought/","title":"Thought","tags":["stub"]}
+{"dg-publish":true,"permalink":"/notes/tags-source-thought/","title":"Thought","tags":["stub"]}
 ---
 

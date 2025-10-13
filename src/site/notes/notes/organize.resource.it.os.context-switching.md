@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.context-switching/","title":"Context Switching"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-context-switching/","title":"Context Switching"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/golang.pkg/","title":"Pkg"}
+{"dg-publish":true,"permalink":"/notes/golang-pkg/","title":"Pkg"}
 ---
 
 

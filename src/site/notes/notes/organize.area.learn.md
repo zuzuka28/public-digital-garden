@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.area.learn/","title":"Learn"}
+{"dg-publish":true,"permalink":"/notes/organize-area-learn/","title":"Learn"}
 ---
 
 

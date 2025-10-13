@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.ssl/","title":"SSL"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-ssl/","title":"SSL"}
 ---
 
 

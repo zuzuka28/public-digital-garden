@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.cli/","title":"CLI"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-cli/","title":"CLI"}
 ---
 
 

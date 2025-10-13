@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.swagger/","title":"Swagger"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-swagger/","title":"Swagger"}
 ---
 
 

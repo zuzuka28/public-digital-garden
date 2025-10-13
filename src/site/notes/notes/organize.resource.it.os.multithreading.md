@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.multithreading/","title":"Multithreading"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-multithreading/","title":"Multithreading"}
 ---
 
 

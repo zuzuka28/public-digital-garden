@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.bookmarklet-maker/","title":"Bookmarklet Maker","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-bookmarklet-maker/","title":"Bookmarklet Maker","tags":["source.app"]}
 ---
 
 

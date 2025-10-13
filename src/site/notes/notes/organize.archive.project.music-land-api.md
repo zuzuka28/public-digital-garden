@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.music-land-api/","title":"Music Land API"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-music-land-api/","title":"Music Land API"}
 ---
 
 

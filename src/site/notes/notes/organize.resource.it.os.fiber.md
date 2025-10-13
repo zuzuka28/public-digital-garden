@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.fiber/","title":"Fiber"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-fiber/","title":"Fiber"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.paperless-ngx/","title":"Paperless Ngx","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-paperless-ngx/","title":"Paperless Ngx","tags":["source.app"]}
 ---
 
 

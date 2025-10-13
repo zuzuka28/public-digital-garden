@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.nat/","title":"NAT"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-nat/","title":"NAT"}
 ---
 
 

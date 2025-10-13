@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.t.func/","title":"Func"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-t-func/","title":"Func"}
 ---
 
 

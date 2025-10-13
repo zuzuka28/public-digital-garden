@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.обучение-осень-2024/","title":"Обучение Осень 2024"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-obuchenie-osen-2024/","title":"Обучение Осень 2024"}
 ---
 
 

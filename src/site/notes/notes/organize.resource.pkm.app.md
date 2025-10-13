@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app/","title":"App"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app/","title":"App"}
 ---
 
 

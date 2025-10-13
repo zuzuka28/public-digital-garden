@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.book.high-performance-go-workshop-gophercon-2019/","title":"High Performance Go Workshop Gophercon 2019","tags":["source.book"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-book-high-performance-go-workshop-gophercon-2019/","title":"High Performance Go Workshop Gophercon 2019","tags":["source.book"]}
 ---
 
 

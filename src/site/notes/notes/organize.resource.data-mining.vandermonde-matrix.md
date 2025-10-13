@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.vandermonde-matrix/","title":"Vandermonde Matrix"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-vandermonde-matrix/","title":"Vandermonde Matrix"}
 ---
 
 

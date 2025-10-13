@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.информация-вокруг/","title":"Информация Вокруг"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-informacziya-vokrug/","title":"Информация Вокруг"}
 ---
 
 

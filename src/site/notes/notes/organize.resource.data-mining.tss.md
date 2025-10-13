@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.tss/","title":"TSS"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-tss/","title":"TSS"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.digital-garden/","title":"Digital Garden"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-digital-garden/","title":"Digital Garden"}
 ---
 
 

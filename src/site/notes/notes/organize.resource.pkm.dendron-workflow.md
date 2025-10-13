@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.dendron-workflow/","title":"Dendron Workflow"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-dendron-workflow/","title":"Dendron Workflow"}
 ---
 
 

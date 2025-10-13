@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.age/","title":"Age"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-age/","title":"Age"}
 ---
 
 

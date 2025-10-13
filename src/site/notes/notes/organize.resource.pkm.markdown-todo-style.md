@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.markdown-todo-style/","title":"Markdown Todo Style"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-markdown-todo-style/","title":"Markdown Todo Style"}
 ---
 
 

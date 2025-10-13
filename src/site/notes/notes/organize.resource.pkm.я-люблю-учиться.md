@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.я-люблю-учиться/","title":"Я Люблю Учиться"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-ya-lyublyu-uchitsya/","title":"Я Люблю Учиться"}
 ---
 
 

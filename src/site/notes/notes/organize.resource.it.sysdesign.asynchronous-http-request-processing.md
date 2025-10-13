@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.sysdesign.asynchronous-http-request-processing/","title":"Asynchronous HTTP Request Processing"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-sysdesign-asynchronous-http-request-processing/","title":"Asynchronous HTTP Request Processing"}
 ---
 
 

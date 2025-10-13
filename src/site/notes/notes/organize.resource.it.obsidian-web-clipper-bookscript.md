@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.obsidian-web-clipper-bookscript/","title":"Obsidian Web Clipper Bookscript"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-obsidian-web-clipper-bookscript/","title":"Obsidian Web Clipper Bookscript"}
 ---
 
 

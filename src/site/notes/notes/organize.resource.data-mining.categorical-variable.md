@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.categorical-variable/","title":"Categorical Variable"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-categorical-variable/","title":"Categorical Variable"}
 ---
 
 

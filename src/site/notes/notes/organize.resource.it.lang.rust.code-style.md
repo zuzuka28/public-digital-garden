@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.rust.code-style/","title":"Code Style"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-rust-code-style/","title":"Code Style"}
 ---
 
 

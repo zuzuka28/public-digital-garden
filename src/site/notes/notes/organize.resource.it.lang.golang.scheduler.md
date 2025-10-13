@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.scheduler/","title":"Scheduler"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-scheduler/","title":"Scheduler"}
 ---
 
 

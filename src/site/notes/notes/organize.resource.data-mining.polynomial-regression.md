@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.polynomial-regression/","title":"Polynomial Regression"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-polynomial-regression/","title":"Polynomial Regression"}
 ---
 
 

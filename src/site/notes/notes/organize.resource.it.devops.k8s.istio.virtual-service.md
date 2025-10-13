@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.k8s.istio.virtual-service/","title":"Virtual Service"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-k8s-istio-virtual-service/","title":"Virtual Service"}
 ---
 
 

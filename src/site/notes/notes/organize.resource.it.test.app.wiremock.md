@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.test.app.wiremock/","title":"Wiremock","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-test-app-wiremock/","title":"Wiremock","tags":["source.app"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.thread/","title":"Thread"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-thread/","title":"Thread"}
 ---
 
 

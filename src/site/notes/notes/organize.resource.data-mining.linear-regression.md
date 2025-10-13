@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.linear-regression/","title":"Linear Regression"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-linear-regression/","title":"Linear Regression"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm/","title":"Pkm"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm/","title":"Pkm"}
 ---
 
 

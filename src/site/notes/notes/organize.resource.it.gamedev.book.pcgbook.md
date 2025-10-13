@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.gamedev.book.pcgbook/","title":"Pcgbook","tags":["source.book","stub"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-gamedev-book-pcgbook/","title":"Pcgbook","tags":["source.book","stub"]}
 ---
 
 

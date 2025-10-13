@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.app.jflap/","title":"JFLAP","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-app-jflap/","title":"JFLAP","tags":["source.app"]}
 ---
 
 

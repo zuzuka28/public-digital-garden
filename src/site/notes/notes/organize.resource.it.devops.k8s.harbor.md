@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.k8s.harbor/","title":"Harbor"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-k8s-harbor/","title":"Harbor"}
 ---
 
 

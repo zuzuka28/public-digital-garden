@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.ginkgo/","title":"Ginkgo"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-ginkgo/","title":"Ginkgo"}
 ---
 
 

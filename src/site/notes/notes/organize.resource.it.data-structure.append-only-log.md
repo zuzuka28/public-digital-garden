@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.data-structure.append-only-log/","title":"Append Only Log"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-data-structure-append-only-log/","title":"Append Only Log"}
 ---
 
 

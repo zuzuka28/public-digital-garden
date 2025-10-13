@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.gopass-workflow/","title":"Gopass Workflow"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-gopass-workflow/","title":"Gopass Workflow"}
 ---
 
 

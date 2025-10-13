@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.app.nixos/","title":"NixOS","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-app-nixos/","title":"NixOS","tags":["source.app"]}
 ---
 
 

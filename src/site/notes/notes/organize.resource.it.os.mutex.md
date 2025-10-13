@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.mutex/","title":"Mutex"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-mutex/","title":"Mutex"}
 ---
 
 

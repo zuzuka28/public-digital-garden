@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.object-storage.minio/","title":"Minio"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-object-storage-minio/","title":"Minio"}
 ---
 
 

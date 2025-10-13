@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.shell/","title":"Shell"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-shell/","title":"Shell"}
 ---
 
 

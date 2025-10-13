@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.docker/","title":"Docker"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-docker/","title":"Docker"}
 ---
 
 

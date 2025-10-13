@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.shell.app.pwgen/","title":"Pwgen"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-shell-app-pwgen/","title":"Pwgen"}
 ---
 
 

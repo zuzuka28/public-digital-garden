@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.object-storage.swift/","title":"Swift"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-object-storage-swift/","title":"Swift"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.nummethods.решение-уравнений.методы-отделения-корней/","title":"Методы Отделения Корней"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-nummethods-reshenie-uravnenij-metody-otdeleniya-kornej/","title":"Методы Отделения Корней"}
 ---
 
 

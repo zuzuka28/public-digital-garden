@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.app.code-server/","title":"Code Server","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-app-code-server/","title":"Code Server","tags":["source.app"]}
 ---
 
 

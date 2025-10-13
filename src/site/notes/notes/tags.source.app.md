@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/tags.source.app/","title":"App","tags":["stub"]}
+{"dg-publish":true,"permalink":"/notes/tags-source-app/","title":"App","tags":["stub"]}
 ---
 
 

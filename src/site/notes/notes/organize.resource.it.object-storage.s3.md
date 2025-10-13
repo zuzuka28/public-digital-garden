@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.object-storage.s3/","title":"S3","tags":["stub"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-object-storage-s3/","title":"S3","tags":["stub"]}
 ---
 
 

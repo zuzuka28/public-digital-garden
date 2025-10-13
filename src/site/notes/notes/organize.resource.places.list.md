@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.places.list/","title":"List"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-places-list/","title":"List"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.graph/","title":"Graph"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-graph/","title":"Graph"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.data-structure.b-plus-tree/","title":"B plus Tree"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-data-structure-b-plus-tree/","title":"B plus Tree"}
 ---
 
 

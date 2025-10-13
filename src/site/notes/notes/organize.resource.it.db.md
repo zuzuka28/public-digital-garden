@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.db/","title":"Db"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-db/","title":"Db"}
 ---
 
 

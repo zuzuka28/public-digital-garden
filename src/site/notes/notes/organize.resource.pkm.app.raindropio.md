@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.raindropio/","title":"RaindropIO","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-raindropio/","title":"RaindropIO","tags":["source.app"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.infra.grafana.pyroscope/","title":"Pyroscope"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-infra-grafana-pyroscope/","title":"Pyroscope"}
 ---
 
 

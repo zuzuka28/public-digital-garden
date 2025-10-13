@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.addressing/","title":"Addressing"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-addressing/","title":"Addressing"}
 ---
 
 

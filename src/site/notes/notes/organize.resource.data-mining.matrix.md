@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.data-mining.matrix/","title":"Matrix"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-data-mining-matrix/","title":"Matrix"}
 ---
 
 

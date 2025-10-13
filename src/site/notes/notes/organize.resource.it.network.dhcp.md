@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.dhcp/","title":"DHCP"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-dhcp/","title":"DHCP"}
 ---
 
 

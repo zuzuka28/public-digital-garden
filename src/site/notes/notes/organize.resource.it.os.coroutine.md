@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.coroutine/","title":"Coroutine"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-coroutine/","title":"Coroutine"}
 ---
 
 

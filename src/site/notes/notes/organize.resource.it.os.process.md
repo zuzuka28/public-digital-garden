@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.process/","title":"Process"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-process/","title":"Process"}
 ---
 
 

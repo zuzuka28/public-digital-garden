@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.arp/","title":"ARP"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-arp/","title":"ARP"}
 ---
 
 

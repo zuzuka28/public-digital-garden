@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.rust.t.meaning/","title":"Meaning"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-rust-t-meaning/","title":"Meaning"}
 ---
 
 

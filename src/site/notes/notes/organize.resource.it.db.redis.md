@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.db.redis/","title":"Redis"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-db-redis/","title":"Redis"}
 ---
 
 

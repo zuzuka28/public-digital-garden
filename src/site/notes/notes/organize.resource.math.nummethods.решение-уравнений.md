@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.nummethods.решение-уравнений/","title":"Решение Уравнений"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-nummethods-reshenie-uravnenij/","title":"Решение Уравнений"}
 ---
 
 

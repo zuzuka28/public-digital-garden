@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.concurrency.hashtable/","title":"Hashtable"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-concurrency-hashtable/","title":"Hashtable"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.gopass-workflow.obfuscate-filetree/","title":"Obfuscate Filetree"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-gopass-workflow-obfuscate-filetree/","title":"Obfuscate Filetree"}
 ---
 
 

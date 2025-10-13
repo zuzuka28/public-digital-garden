@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.python.snip.meta-logger/","title":"Meta Logger"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-python-snip-meta-logger/","title":"Meta Logger"}
 ---
 
 

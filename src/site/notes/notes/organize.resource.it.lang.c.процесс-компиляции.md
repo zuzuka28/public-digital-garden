@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.c.процесс-компиляции/","title":"Процесс Компиляции"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-c-proczess-kompilyaczii/","title":"Процесс Компиляции"}
 ---
 
 

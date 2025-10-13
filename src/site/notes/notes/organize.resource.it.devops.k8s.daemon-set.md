@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.k8s.daemon-set/","title":"Daemon Set"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-k8s-daemon-set/","title":"Daemon Set"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.htt-smt/","title":"Htt Smt"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-htt-smt/","title":"Htt Smt"}
 ---
 
 

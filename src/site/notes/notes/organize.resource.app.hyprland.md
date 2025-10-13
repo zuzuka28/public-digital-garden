@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.app.hyprland/","title":"Hyprland","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-app-hyprland/","title":"Hyprland","tags":["source.app"]}
 ---
 
 

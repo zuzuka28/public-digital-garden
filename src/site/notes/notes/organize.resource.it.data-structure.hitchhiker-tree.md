@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.data-structure.hitchhiker-tree/","title":"Hitchhiker Tree"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-data-structure-hitchhiker-tree/","title":"Hitchhiker Tree"}
 ---
 
 

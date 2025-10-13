@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.osi/","title":"OSI"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-osi/","title":"OSI"}
 ---
 
 

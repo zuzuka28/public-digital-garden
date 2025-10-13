@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.nummethods.решение-уравнений.уточнение-корней.метод-половинного-деления/","title":"Метод Половинного Деления"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-nummethods-reshenie-uravnenij-utochnenie-kornej-metod-polovinnogo-deleniya/","title":"Метод Половинного Деления"}
 ---
 
 

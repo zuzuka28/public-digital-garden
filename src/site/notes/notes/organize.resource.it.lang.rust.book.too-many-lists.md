@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.rust.book.too-many-lists/","title":"Too Many Lists","tags":["source.book"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-rust-book-too-many-lists/","title":"Too Many Lists","tags":["source.book"]}
 ---
 
 

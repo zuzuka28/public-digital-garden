@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.pkg.json-iter/","title":"Json Iter"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-pkg-json-iter/","title":"Json Iter"}
 ---
 
 

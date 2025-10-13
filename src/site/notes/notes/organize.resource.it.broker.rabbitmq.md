@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.broker.rabbitmq/","title":"Rabbitmq"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-broker-rabbitmq/","title":"Rabbitmq"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.concurrency.or-done/","title":"Or Done"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-concurrency-or-done/","title":"Or Done"}
 ---
 
 

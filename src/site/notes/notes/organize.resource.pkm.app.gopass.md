@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.pkm.app.gopass/","title":"Gopass"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-pkm-app-gopass/","title":"Gopass"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.os.multitasking/","title":"Multitasking"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-os-multitasking/","title":"Multitasking"}
 ---
 
 

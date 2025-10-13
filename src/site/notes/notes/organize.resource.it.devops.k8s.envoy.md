@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.k8s.envoy/","title":"Envoy"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-k8s-envoy/","title":"Envoy"}
 ---
 
 

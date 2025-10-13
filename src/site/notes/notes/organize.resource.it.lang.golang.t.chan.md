@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.golang.t.chan/","title":"Chan"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-golang-t-chan/","title":"Chan"}
 ---
 
 

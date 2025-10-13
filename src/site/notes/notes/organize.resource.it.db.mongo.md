@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.db.mongo/","title":"Mongo","tags":["stub"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-db-mongo/","title":"Mongo","tags":["stub"]}
 ---
 
 

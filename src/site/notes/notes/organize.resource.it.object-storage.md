@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.object-storage/","title":"Object Storage"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-object-storage/","title":"Object Storage"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.archive.project.обучение-лето-2024/","title":"Обучение Лето 2024"}
+{"dg-publish":true,"permalink":"/notes/organize-archive-project-obuchenie-leto-2024/","title":"Обучение Лето 2024"}
 ---
 
 

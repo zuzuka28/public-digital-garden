@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.gpg/","title":"Gpg"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-gpg/","title":"Gpg"}
 ---
 
 

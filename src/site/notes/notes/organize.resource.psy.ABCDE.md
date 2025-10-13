@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.psy.ABCDE/","title":"ABCDE"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-psy-abcde/","title":"ABCDE"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.asyncapicom/","title":"Asyncapicom"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-asyncapicom/","title":"Asyncapicom"}
 ---
 
 

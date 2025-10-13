@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.lang.shell.app.ab/","title":"Ab","tags":["source.app"]}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-lang-shell-app-ab/","title":"Ab","tags":["source.app"]}
 ---
 
 

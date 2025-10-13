@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.math.simplex-method/","title":"Simplex Method"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-math-simplex-method/","title":"Simplex Method"}
 ---
 
 

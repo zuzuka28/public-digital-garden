@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.tls/","title":"TLS"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-tls/","title":"TLS"}
 ---
 
 

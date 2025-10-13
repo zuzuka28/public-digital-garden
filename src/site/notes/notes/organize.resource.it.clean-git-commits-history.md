@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.clean-git-commits-history/","title":"Clean Git Commits History"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-clean-git-commits-history/","title":"Clean Git Commits History"}
 ---
 
 

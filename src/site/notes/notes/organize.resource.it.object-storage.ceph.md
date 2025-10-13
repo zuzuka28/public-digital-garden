@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.object-storage.ceph/","title":"Ceph"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-object-storage-ceph/","title":"Ceph"}
 ---
 
 

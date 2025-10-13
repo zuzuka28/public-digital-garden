@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.db.elasticsearch/","title":"Elasticsearch"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-db-elasticsearch/","title":"Elasticsearch"}
 ---
 
 

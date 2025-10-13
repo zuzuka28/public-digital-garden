@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.db.dgraph/","title":"Dgraph"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-db-dgraph/","title":"Dgraph"}
 ---
 
 

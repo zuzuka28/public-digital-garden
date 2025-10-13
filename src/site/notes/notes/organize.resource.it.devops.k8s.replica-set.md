@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.devops.k8s.replica-set/","title":"Replica Set"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-devops-k8s-replica-set/","title":"Replica Set"}
 ---
 
 

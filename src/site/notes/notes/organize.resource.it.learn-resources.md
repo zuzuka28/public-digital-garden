@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.learn-resources/","title":"Learn Resources"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-learn-resources/","title":"Learn Resources"}
 ---
 
 

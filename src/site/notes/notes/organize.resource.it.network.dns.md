@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.dns/","title":"DNS"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-dns/","title":"DNS"}
 ---
 
 

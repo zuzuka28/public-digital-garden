@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.broker.guarantee/","title":"Guarantee"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-broker-guarantee/","title":"Guarantee"}
 ---
 
 

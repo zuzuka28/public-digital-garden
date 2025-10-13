@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/organize.resource.it.network.pdu/","title":"PDU"}
+{"dg-publish":true,"permalink":"/notes/organize-resource-it-network-pdu/","title":"PDU"}
 ---
 
 
