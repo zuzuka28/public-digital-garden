@@ -85,9 +85,9 @@
 Дополнительные примитивы синхронизации
 
 - [x] spin lock
-    - [[notes/organize.resource.it.os.mutex\|organize.resource.it.os.mutex]]
+    - [[notes/organize.resource.it.os.mutex\|notes/organize.resource.it.os.mutex]]
 - [x] ticket lock
-    - [[notes/organize.resource.it.os.mutex\|organize.resource.it.os.mutex]]
+    - [[notes/organize.resource.it.os.mutex\|notes/organize.resource.it.os.mutex]]
 - [ ] recursive mutex
 - [ ] timed mutex
 - [ ] rw mutex

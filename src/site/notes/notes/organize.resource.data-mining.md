@@ -9,7 +9,7 @@
 
 - classifier - классификатор пытается предсказать принадлежность к группе, дает значение булевые значение
 - regressor - регрессор пытается предсказать значения по паттерну на котором обучался, дает численные значения
-  - [[notes/organize.resource.data-mining.linear-regression\|organize.resource.data-mining.linear-regression]]
+  - [[notes/organize.resource.data-mining.linear-regression\|notes/organize.resource.data-mining.linear-regression]]
 
 ---
 

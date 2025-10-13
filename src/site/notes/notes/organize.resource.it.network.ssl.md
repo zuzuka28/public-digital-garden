@@ -4,7 +4,7 @@
 
 
 SSL (Secure Sockets Layer) — криптографический протокол, обеспечивающие защищенную передачу данных в сети.
-Находится на [[organize.resource.it.network.osi \| сессионном уровне модели OSI]].
+Находится на [[notes/organize.resource.it.network.osi \| сессионном уровне модели OSI]].
 
 Гарантирует:
 

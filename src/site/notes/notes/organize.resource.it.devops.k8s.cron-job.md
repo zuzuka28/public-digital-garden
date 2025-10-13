@@ -5,4 +5,4 @@
 
 <https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/>
 
-CronJob - запускает контроллеры [[notes/organize.resource.it.devops.k8s.job\|organize.resource.it.devops.k8s.job]] по расписанию.
+CronJob - запускает контроллеры [[notes/organize.resource.it.devops.k8s.job\|notes/organize.resource.it.devops.k8s.job]] по расписанию.

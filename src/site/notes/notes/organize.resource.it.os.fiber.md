@@ -3,7 +3,7 @@
 ---
 
 
-Fiber - легковесный [[organize.resource.it.os.thread \| поток]], использующий [[notes/organize.resource.it.os.multitasking#кооперативная-многозадачность-cooperative-multitasking \| кооперативную многозадачность]].
+Fiber - легковесный [[notes/organize.resource.it.os.thread \| поток]], использующий [[notes/organize.resource.it.os.multitasking#кооперативная-многозадачность-cooperative-multitasking \| кооперативную многозадачность]].
 
 Fiber зачастую реализуется в пользовательском пространстве.  
 

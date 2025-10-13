@@ -5,4 +5,4 @@
 
 Обучение - неотьемлемая часть моей жизни.
 
-- [[notes/organize.resource.pkm.я-люблю-учиться\|organize.resource.pkm.я-люблю-учиться]]
+- [[notes/organize.resource.pkm.я-люблю-учиться\|notes/organize.resource.pkm.я-люблю-учиться]]

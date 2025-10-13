@@ -5,6 +5,6 @@
 
 <https://xorm.io> 
 
-[[organize.resource.it.orm \| ORM]] библиотека, поддерживающая разные диалекты SQL.
+[[notes/organize.resource.it.orm \| ORM]] библиотека, поддерживающая разные диалекты SQL.
 
 Созданием и поддержкой библиотеки занимались разработчики Gitea

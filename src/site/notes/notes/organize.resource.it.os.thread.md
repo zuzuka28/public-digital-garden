@@ -3,7 +3,7 @@
 ---
 
 
-Поток - сущность внутри [[organize.resource.it.os.process \| процесса]], которая подвергается [[organize.resource.it.os.scheduling \| планированию]].
+Поток - сущность внутри [[notes/organize.resource.it.os.process \| процесса]], которая подвергается [[notes/organize.resource.it.os.scheduling \| планированию]].
 
 Каждый поток имеет:
 

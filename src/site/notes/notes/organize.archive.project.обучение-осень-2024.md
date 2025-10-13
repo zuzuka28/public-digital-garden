@@ -13,7 +13,7 @@
 
 <!-- Откуда пришла идея реализовать данный проект? -->
 
-Идейное продолжение [[notes/organize.archive.project.обучение-лето-2024\|organize.archive.project.обучение-лето-2024]].
+Идейное продолжение [[notes/organize.archive.project.обучение-лето-2024\|notes/organize.archive.project.обучение-лето-2024]].
 
 ## Критерий успеха
 
@@ -37,7 +37,7 @@
 
 <!-- Любые заметки связанные с проектом -->
 
-Есть много тем, которые я не успел разобрать в летнем треке, поэтому я продолжу изучать темы, которые были собраны в [[notes/organize.archive.project.обучение-лето-2024.golang-concurrency\|organize.archive.project.обучение-лето-2024.golang-concurrency]].
+Есть много тем, которые я не успел разобрать в летнем треке, поэтому я продолжу изучать темы, которые были собраны в [[notes/organize.archive.project.обучение-лето-2024.golang-concurrency\|notes/organize.archive.project.обучение-лето-2024.golang-concurrency]].
 
 ## Обзор
 

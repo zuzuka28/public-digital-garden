@@ -3,7 +3,7 @@
 ---
 
 
-[[notes/organize.resource.it.lang.shell\|organize.resource.it.lang.shell]] скрипт для обсускации файловой иерархии
+[[notes/organize.resource.it.lang.shell\|notes/organize.resource.it.lang.shell]] скрипт для обсускации файловой иерархии
 
 Пример использования 
 
@@ -113,7 +113,7 @@ function obfuscate_secrets_vault() {
   secretPathRe="^.*(secret-[0-9a-f]{64})$"
 
   while IFS= read -r -d '' path; do
-    if [[ $path =~ $secretPathRe ]]; then # add already obfuscated files to index
+    if [[notes/$path =~ $secretPathRe]]; then # add already obfuscated files to index
       matched_part=${BASH_REMATCH[1]}
       if [[ ! ${secrets_index[$matched_part]} ]]; then
         secrets_index[$matched_part]=$path
@@ -178,9 +178,9 @@ if ! [ -x "$(command -v age)" ]; then
   exit 1
 fi
 
-if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+if [[notes/"$OSTYPE" == "linux-gnu"*]]; then
   hash256func=sha256sum
-elif [[ "$OSTYPE" == "darwin"* ]]; then
+elif [[notes/"$OSTYPE" == "darwin"*]]; then
   hash256func="shasum -a 256"
 fi
 

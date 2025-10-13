@@ -5,7 +5,7 @@
 
 <https://istio.io/> - Service Mesh
 
-Построен на базе [[organize.resource.it.devops.k8s.envoy \| Envoy]]
+Построен на базе [[notes/organize.resource.it.devops.k8s.envoy \| Envoy]]
 
 Istio используется для организации трафика между приложениями в кластере.
 

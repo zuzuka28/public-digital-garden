@@ -9,7 +9,7 @@
 
 Мне нужен надежный менеджер паролей, который я смогу использовать в повседневной жизни.
 
-Мне понравился [[notes/organize.resource.pkm.app.gopass\|organize.resource.pkm.app.gopass]] и мне он кажется достаточно надежным, я знаю как сделать его еще лучше для себя.
+Мне понравился [[notes/organize.resource.pkm.app.gopass\|notes/organize.resource.pkm.app.gopass]] и мне он кажется достаточно надежным, я знаю как сделать его еще лучше для себя.
 
 ## Контекст
 

@@ -26,7 +26,7 @@ $$\alpha = y - \hat{y}$$
 Идея заключается в том, чтобы минимизировать функцию потерь на любом входном наборе параметров. 
 То есть, чтобы улучшить функцию предсказания, требуется подобрать такие коэффициенты $a_0$ и $a_1$, при которых функия потерь будет показывать минимальные значения на любых входных данных.
 
-Лучше всего брать функцию [[notes/organize.resource.data-mining.mse\|organize.resource.data-mining.mse]], поскольку она сильно штрафует за ошибки. То есть даже при небольшой ошибке в предсказании, мы получаем большое значение функции потерь.
+Лучше всего брать функцию [[notes/organize.resource.data-mining.mse\|notes/organize.resource.data-mining.mse]], поскольку она сильно штрафует за ошибки. То есть даже при небольшой ошибке в предсказании, мы получаем большое значение функции потерь.
 
 $$MSE (Mean Square Error)  = \frac{\sum_{i=1}^n{\left(Y - \hat{Y}\right)^2}}{n} \rightarrow min$$
 
@@ -36,7 +36,7 @@ $$MSE (Mean Square Error)  = \frac{\sum_{i=1}^n{\left(Y_i - a_0 - a_1x_i\right)^
 
 Для минимизации функции потерь требуется найти ее градиент и двигаться в противоположном ему направлении. 
 
-Используем [[notes/organize.resource.data-mining.nabla\|organize.resource.data-mining.nabla]], по переменным $a_0$ и $a_1$, чтобы найти градиент.
+Используем [[notes/organize.resource.data-mining.nabla\|notes/organize.resource.data-mining.nabla]], по переменным $a_0$ и $a_1$, чтобы найти градиент.
 
 $$\nabla MSE = \left(\frac{\sum_{i=1}^n{2\left(Y_i - a_0 - a_1x_i\right)(-1)}}{n}, \frac{\sum_{i=1}^n{2\left(Y_i - a_0 - a_1x_i\right)(-x_i)}}{n} \right)$$
 
@@ -118,7 +118,7 @@ $$\hat{A} = (X^{T}X)^{(-1)}X^{T}Y$$
 
 Точность предсказания оценивается при помощи таких функций как:
 
-- [[notes/organize.resource.data-mining.mae\|organize.resource.data-mining.mae]]
-- [[organize.resource.data-mining.mape\|organize.resource.data-mining.mape]]
+- [[notes/organize.resource.data-mining.mae\|notes/organize.resource.data-mining.mae]]
+- [[notes/organize.resource.data-mining.mape\|notes/organize.resource.data-mining.mape]]
 
-В некоторых библиотеках и материалах используется [[notes/organize.resource.data-mining.coefficient-of-determination\|organize.resource.data-mining.coefficient-of-determination]] для оценки качества ошибки, но ее сложно интерпретировать, поэтому лучше использовать MAE.
+В некоторых библиотеках и материалах используется [[notes/organize.resource.data-mining.coefficient-of-determination\|notes/organize.resource.data-mining.coefficient-of-determination]] для оценки качества ошибки, но ее сложно интерпретировать, поэтому лучше использовать MAE.

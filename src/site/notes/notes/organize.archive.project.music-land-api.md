@@ -7,7 +7,7 @@
 
 Создать API для стриминга музыки, см. Spotify
 
-Получить срез навыка написания API с использованием [[organize.resource.it.lang.golang \| Golang]]
+Получить срез навыка написания API с использованием [[notes/organize.resource.it.lang.golang \| Golang]]
 
 ## Контекст
 
@@ -50,9 +50,9 @@
 
 ## Заметки
 
-В качестве базы данных выбрана [[organize.resource.it.db.postgre \| PostgreSQL]] с [[organize.resource.it.orm \| ORM]] коннектором [[organize.resource.it.lang.golang.pkg.xorm \| xorm]]
+В качестве базы данных выбрана [[notes/organize.resource.it.db.postgre \| PostgreSQL]] с [[notes/organize.resource.it.orm \| ORM]] коннектором [[notes/organize.resource.it.lang.golang.pkg.xorm \| xorm]]
 
-Для хранения файлов выбрано объектное хранилище [[organize.resource.it.object-storage.minio \| Minio]] с клиентом [[organize.resource.it.lang.golang.pkg.minio \| Minio]] и поддержкой [[organize.resource.it.object-storage.s3 \| S3]]
+Для хранения файлов выбрано объектное хранилище [[notes/organize.resource.it.object-storage.minio \| Minio]] с клиентом [[notes/organize.resource.it.lang.golang.pkg.minio \| Minio]] и поддержкой [[notes/organize.resource.it.object-storage.s3 \| S3]]
 
 Репозиторий тут - <https://github.com/zuzuka28/music_land_api>
 

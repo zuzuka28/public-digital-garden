@@ -5,24 +5,24 @@
 
 <https://habr.com/ru/companies/ruvds/articles/759988/> - годно!
 
-![[organize.resource.it.network.osi \| OSI]]
+![[notes/organize.resource.it.network.osi \| OSI]]
 
-![[organize.resource.it.network.addressing \| Addressing]]
+![[notes/organize.resource.it.network.addressing \| Addressing]]
 
-![[organize.resource.it.network.routing \| Routing]]
+![[notes/organize.resource.it.network.routing \| Routing]]
 
-![[organize.resource.it.network.pdu \| PDU]]
+![[notes/organize.resource.it.network.pdu \| PDU]]
 
 ## Протоколы
 
-![[organize.resource.it.network.arp \| ARP]]
+![[notes/organize.resource.it.network.arp \| ARP]]
 
-![[organize.resource.it.network.dhcp \| DHCP]]
+![[notes/organize.resource.it.network.dhcp \| DHCP]]
 
-![[organize.resource.it.network.dns \| DNS]]
+![[notes/organize.resource.it.network.dns \| DNS]]
 
-![[organize.resource.it.network.tcp \| TCP]]
+![[notes/organize.resource.it.network.tcp \| TCP]]
 
-![[organize.resource.it.network.udp \| UDP]]
+![[notes/organize.resource.it.network.udp \| UDP]]
 
-![[organize.resource.it.network.http \| HTTP]]
+![[notes/organize.resource.it.network.http \| HTTP]]

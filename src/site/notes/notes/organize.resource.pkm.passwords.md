@@ -46,10 +46,10 @@ KeepassXC - говорят, не стареющая классика.
 
 
 
-Менеджер паролей _pass_, переписанный на [[organize.resource.it.lang.golang \| go]].
+Менеджер паролей _pass_, переписанный на [[notes/organize.resource.it.lang.golang \| go]].
 
-Придерживается идеалогии UNIX. 
-Хранит пароли в plain зашифрованных при помощи [[notes/organize.resource.it.gpg\|organize.resource.it.gpg]] или [[notes/organize.resource.it.age\|organize.resource.it.age]] файлах.
+Придерживается идеалогии UNIX.
+Хранит пароли в plain зашифрованных при помощи [[notes/organize.resource.it.gpg\|notes/organize.resource.it.gpg]] или [[notes/organize.resource.it.age\|notes/organize.resource.it.age]] файлах.
 
 
 
@@ -66,10 +66,10 @@ KeepassXC - говорят, не стареющая классика.
 - возможность делиться паролями
 
 Я планировал синхронизировать пароли с помощью git или какого-нибудь облака, а gopass использует plain файлы для хранения паролей.
-То есть gopass сохраняет секреты в файлы с названием ресурса, для которого предназначен секрет. Такое мне не нравится, если кто-то получит доступ к моему дереву секретов, то как минимум узнает, где у меня есть аккаунты. Я решил это исправить и написать скрипт, который обфусцирует названия. Проект по исправлению недочетов - [[notes/organize.archive.project.gopass-workflow\|organize.archive.project.gopass-workflow]].
+То есть gopass сохраняет секреты в файлы с названием ресурса, для которого предназначен секрет. Такое мне не нравится, если кто-то получит доступ к моему дереву секретов, то как минимум узнает, где у меня есть аккаунты. Я решил это исправить и написать скрипт, который обфусцирует названия. Проект по исправлению недочетов - [[notes/organize.archive.project.gopass-workflow\|notes/organize.archive.project.gopass-workflow]].
 
 В итоге
 
-1. У меня есть свой секретный ключ и набор файлов, зашифрофанных [[notes/organize.resource.it.age\|organize.resource.it.age]].
-2. Когда я перехожу на новую систему, я стягиваю свои секреты, потом использую [[organize.archive.project.gopass-workflow.obfuscate-filetree \| скрипт, чтобы расшифрофать дерево]] и использую менеджер паролей.
-3. Если нужно перейти на другую машину - опять использую [[organize.archive.project.gopass-workflow.obfuscate-filetree \| скрипт, чтобы зашифровать дерево]], заливаю секреты на другую машину и пользуюсь.
+1. У меня есть свой секретный ключ и набор файлов, зашифрофанных [[notes/organize.resource.it.age\|notes/organize.resource.it.age]].
+2. Когда я перехожу на новую систему, я стягиваю свои секреты, потом использую [[notes/organize.archive.project.gopass-workflow.obfuscate-filetree \| скрипт, чтобы расшифрофать дерево]] и использую менеджер паролей.
+3. Если нужно перейти на другую машину - опять использую [[notes/organize.archive.project.gopass-workflow.obfuscate-filetree \| скрипт, чтобы зашифровать дерево]], заливаю секреты на другую машину и пользуюсь.

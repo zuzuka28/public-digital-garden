@@ -3,4 +3,4 @@
 ---
 
 
-- [[notes/organize.resource.it.devops.k8s\|organize.resource.it.devops.k8s]]
+- [[notes/organize.resource.it.devops.k8s\|notes/organize.resource.it.devops.k8s]]

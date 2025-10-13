@@ -18,14 +18,14 @@
 
 Минимально-максимальная нормализация используется для того, чтобы поместить данные в фиксированный диапазон от 0 до 1.
 
-Метод чувствителен к [[notes/organize.resource.data-mining.outlier\|organize.resource.data-mining.outlier]].
+Метод чувствителен к [[notes/organize.resource.data-mining.outlier\|notes/organize.resource.data-mining.outlier]].
 
 $$x' = \frac{x - \text{min}(X)}{\text{max}(X) - \text{min}(X)}$$
 
 
 ## Z-score Normalization (Standardization)
 
-[[notes/organize.resource.data-mining.z-score\|organize.resource.data-mining.z-score]]
+[[notes/organize.resource.data-mining.z-score\|notes/organize.resource.data-mining.z-score]]
 
 Z-score нормализация (стандартизация) преобразовывает данные в стандартное нормальное распределение, сохраняя масштаб. 
 

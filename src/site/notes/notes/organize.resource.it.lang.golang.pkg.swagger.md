@@ -3,7 +3,7 @@
 ---
 
 
-Библиотеки для [[notes/organize.resource.it.swagger\|organize.resource.it.swagger]]
+Библиотеки для [[notes/organize.resource.it.swagger\|notes/organize.resource.it.swagger]]
 
 ## <https://github.com/swaggo/swag>
 

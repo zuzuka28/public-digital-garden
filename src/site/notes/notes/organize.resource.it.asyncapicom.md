@@ -3,6 +3,6 @@
 ---
 
 
-<https://www.asyncapi.com/en> - попытка создать формат по типу [[organize.resource.it.swagger \| OpenAPI]], только для описания асинхронных операций.
+<https://www.asyncapi.com/en> - попытка создать формат по типу [[notes/organize.resource.it.swagger \| OpenAPI]], только для описания асинхронных операций.
 
-Пример использования - составление спецификации для используемых [[organize.resource.it.broker.rabbitmq \| RаbbitMQ очередей]].
+Пример использования - составление спецификации для используемых [[notes/organize.resource.it.broker.rabbitmq \| RаbbitMQ очередей]].

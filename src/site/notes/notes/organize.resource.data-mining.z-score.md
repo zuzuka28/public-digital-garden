@@ -5,7 +5,7 @@
 
 Z-Score - статистичекая оценка, описывающая отклонение значение от нормали из группы. 
 
-Используется для выявления [[notes/organize.resource.data-mining.outlier\|organize.resource.data-mining.outlier]]
+Используется для выявления [[notes/organize.resource.data-mining.outlier\|notes/organize.resource.data-mining.outlier]]
 
 Формула:
 
