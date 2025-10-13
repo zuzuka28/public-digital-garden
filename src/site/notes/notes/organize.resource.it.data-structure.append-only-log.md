@@ -7,4 +7,4 @@
 
 Идея Append Only Log заключается в том, что структура иммутабельна, то есть хранит все предыдущие состояния.
 
-Используется при реализации [[notes/organize.resource.it.sysdesign.event-sourcing \| event-sourcing pattern]].
+Используется при реализации [[notes/organize.resource.it.sysdesign.event-sourcing\|event-sourcing pattern]].

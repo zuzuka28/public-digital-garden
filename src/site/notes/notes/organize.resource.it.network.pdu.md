@@ -45,4 +45,4 @@
   - чек-сумма
   - данные
 
-- [[notes/organize.resource.it.network.tcp#состав-tcp-сегмента-pdu \| L4 TCP сегмент]]
+- [[notes/organize.resource.it.network.tcp#состав-tcp-сегмента-pdu\|L4 TCP сегмент]]

@@ -3,7 +3,7 @@
 ---
 
 
-Поток - сущность внутри [[notes/organize.resource.it.os.process \| процесса]], которая подвергается [[notes/organize.resource.it.os.scheduling \| планированию]].
+Поток - сущность внутри [[notes/organize.resource.it.os.process\|процесса]], которая подвергается [[notes/organize.resource.it.os.scheduling\|планированию]].
 
 Каждый поток имеет:
 
@@ -20,7 +20,7 @@
 
 **Именно потоки являются целью для планирования, а не процессы**
 
-**Потоки используют [[notes/organize.resource.it.os.multitasking#вытесняющая-многозадачность-preemptive-multitasking \| вытесняющую многозадачность]]**
+**Потоки используют [[notes/organize.resource.it.os.multitasking#вытесняющая-многозадачность-preemptive-multitasking\|вытесняющую многозадачность]]**
 
 <https://learn.microsoft.com/en-gb/windows/win32/procthread/about-processes-and-threads>
 

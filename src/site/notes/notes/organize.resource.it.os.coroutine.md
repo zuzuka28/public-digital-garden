@@ -9,7 +9,7 @@
 
 Корутины используют синтаксис подобный `yield и resume`.
 
-Корутины используют для реализации [[notes/organize.resource.it.os.multitasking#кооперативная-многозадачность-cooperative-multitasking \| кооперативной многозадачности]].
+Корутины используют для реализации [[notes/organize.resource.it.os.multitasking#кооперативная-многозадачность-cooperative-multitasking\|кооперативной многозадачности]].
 
 Пример - python coroutines
 

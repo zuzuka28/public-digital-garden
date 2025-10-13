@@ -5,7 +5,7 @@
 
 <https://kubernetes.io/docs/concepts/workloads/controllers/deployment/>
 
-Деплоймент - контроллер, который управляет состоянием развертывания [[notes/organize.resource.it.devops.k8s.pod\|notes/organize.resource.it.devops.k8s.pod]], которое описывается в манифесте, следит за удалением и созданием экземпляров подов. Управляет контроллерами [[notes/organize.resource.it.devops.k8s.replica-set \| ReplicaSet]].
+Деплоймент - контроллер, который управляет состоянием развертывания [[notes/organize.resource.it.devops.k8s.pod\|notes/organize.resource.it.devops.k8s.pod]], которое описывается в манифесте, следит за удалением и созданием экземпляров подов. Управляет контроллерами [[notes/organize.resource.it.devops.k8s.replica-set\|ReplicaSet]].
 
 ```yaml
 apiVersion: apps/v1

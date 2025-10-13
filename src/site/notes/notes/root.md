@@ -18,7 +18,7 @@
 
 | Топик                           | Описание                                                  |
 | ------------------------------- | --------------------------------------------------------- |
-| [[notes/organize.resource.pkm\|notes/organize.resource.pkm]] | О Саде: как выращивать, как ухаживать, как собирать плоды |
+| [[notes/organize.resource.pkm\|notes/organize.resource.pkm]]|О Саде: как выращивать, как ухаживать, как собирать плоды |
 | [[notes/organize.resource.it\|notes/organize.resource.it]]  | Про IT, программирование, инструменты автоматизации       |
 
 > [!danger] Здесь водятся драконы

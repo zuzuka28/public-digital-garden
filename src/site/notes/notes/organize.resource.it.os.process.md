@@ -14,7 +14,7 @@
 - переменные окружения
 - приоритет
 - минимальный и максимальный размер
-- **как минимум один [[notes/organize.resource.it.os.thread \| поток]]**
+- **как минимум один [[notes/organize.resource.it.os.thread\|поток]]**
 
 <https://learn.microsoft.com/en-gb/windows/win32/procthread/about-processes-and-threads>
 

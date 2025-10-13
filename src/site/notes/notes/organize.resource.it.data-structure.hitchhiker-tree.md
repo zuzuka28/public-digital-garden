@@ -5,5 +5,5 @@
 
 <https://github.com/datacrypt-project/hitchhiker-tree> - "Functional, persistent, off-heap, high performance data structure"
 
-Попытка сделать крутое функциональное дерево со скоростью поиска как у [[notes/organize.resource.it.data-structure.b-plus-tree \| B+ дерева]] и скоростью вставки как [append only log]().
+Попытка сделать крутое функциональное дерево со скоростью поиска как у [[notes/organize.resource.it.data-structure.b-plus-tree\|B+ дерева]] и скоростью вставки как [append only log]().
 

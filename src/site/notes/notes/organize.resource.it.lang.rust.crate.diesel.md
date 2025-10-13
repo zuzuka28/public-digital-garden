@@ -3,7 +3,7 @@
 ---
 
 
-Diesel - [[notes/organize.resource.it.orm \| ORM]] для rust.
+Diesel - [[notes/organize.resource.it.orm\|ORM]] для rust.
 
 Соотношение типов в rust, diesel и postgres - <https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html>
 

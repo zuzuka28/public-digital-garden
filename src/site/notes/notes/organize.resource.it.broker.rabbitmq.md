@@ -5,4 +5,4 @@
 
 <https://www.rabbitmq.com>
 
-C использованием Ack гарантирует [[notes/organize.resource.it.broker.guarantee#at-least-once \| at-least-once]] доставку.
+C использованием Ack гарантирует [[notes/organize.resource.it.broker.guarantee#at-least-once\|at-least-once]] доставку.

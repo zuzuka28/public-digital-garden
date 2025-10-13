@@ -22,7 +22,7 @@
   - CPU store buffer
 { #SB}
 
-    - перед взаимодействием с кэшом и [[notes/organize.resource.it.concurrency.cache-coherence \| протоколом когерентности]] есть еще Store Buffer, который может быть использован при оптимизации процессорных инструкций.
+    - перед взаимодействием с кэшом и [[notes/organize.resource.it.concurrency.cache-coherence\|протоколом когерентности]] есть еще Store Buffer, который может быть использован при оптимизации процессорных инструкций.
     - проблема описана в мануалах x86 примерно с таким заголовком - *Loads May Be Reordered with Earlier Stores to Different Locations*
 
 - модели (согласованности) памяти
@@ -58,4 +58,4 @@
     - способы достижения *результата* не должны нас волновать и от них мы абстрагируемся.
   - TSO - total store order - 
     - модель памяти в x86 процессорах
-    - существует [[notes/organize.resource.it.os.memory-consistency-models#^SB \| Store Buffer]]
+    - существует [[notes/organize.resource.it.os.memory-consistency-models#^SB\|Store Buffer]]
