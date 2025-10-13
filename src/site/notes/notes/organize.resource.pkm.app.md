@@ -3,7 +3,7 @@
 ---
 
 
-- [[notes/organize.resource.pkm.app.nb\|notes/organize.resource.pkm.app.nb]]
+- [[notes/organize.resource.pkm.app.nb\|Nb]]
 - [[notes/organize.resource.pkm.app.omnivore \| Omnivore]]
 - [[notes/organize.resource.pkm.app.paperless-ngx \| Paperless Ngx]]
 - [[notes/organize.resource.pkm.app.quartz \| Quartz]]
